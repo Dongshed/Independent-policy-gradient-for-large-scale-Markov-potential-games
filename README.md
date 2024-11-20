@@ -21,8 +21,8 @@ limitations under the License.
 Acknowledgment
 
 The code of creating simulation environment and the standard policy gradient algorithm are from:
-Leonardos S, Overman W, Panageas I, Piliouras G. Global Convergence of Multi-Agent Policy Gradient  
-in Markov Potential Games. International Conference on Learning Representations 2021.
+
+Leonardos S, Overman W, Panageas I, Piliouras G. Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games. International Conference on Learning Representations 2021.
 
 =================================================================================================
 
