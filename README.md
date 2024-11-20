@@ -16,7 +16,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-=================================================================================================
+====================================================================================
 
 Acknowledgment
 
@@ -24,7 +24,7 @@ The code of creating simulation environment and the standard policy gradient alg
 
 Leonardos S, Overman W, Panageas I, Piliouras G. Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games. International Conference on Learning Representations 2021.
 
-=================================================================================================
+====================================================================================
 
 # Description
 
