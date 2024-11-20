@@ -28,9 +28,9 @@ in Markov Potential Games. International Conference on Learning Representations 
 
 # Description
 
-MPG_experiments in the ICML 2022 paper: 
+MPG_experiments in the ICML 2022 paper (Link to the paper: https://arxiv.org/abs/2202.04129): 
 
-    Independent policy gradient for large-scale Markov potential games (Link to the paper: https://arxiv.org/abs/2202.04129): 
+    Independent policy gradient for large-scale Markov potential games: 
    Sharper rates, function approximation, and game-agnostic convergence
 
 The codes generate the comparison plots in the computational experiments section and appendix. 
